@@ -1,0 +1,13 @@
+- index.html
+  - LEMNISCATE ANALYSIS
+    - lemniscate.html
+  - MATERIAL HERMENEUTICS
+    - material_hermeneutics.html
+  - TECH VS SOCIAL SHAPING
+    - tech_vs_social_shaping.html
+  - SHATTERING COMBAT MYTHS
+    - shattering_combat_myths.html
+  - METAPHOR & DEHUMANIZATION
+    - metaphor_dehumanization.html
+  - HUMAN ELEMENT IN WAR
+    - human_element_in_war.html
